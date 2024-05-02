@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: rgb(248, 79, 79);
+}
+
+.div {
+   
+    text-align: center;
+    justify-content: center;
+}
+
+.Img{
+    width: 400px;
+    height: 400px;
+}
